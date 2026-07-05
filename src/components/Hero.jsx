@@ -111,7 +111,7 @@ const Hero = () => {
           </div>
           
           <h1 className="text-4xl md:text-7xl font-bold mb-6 leading-tight tracking-tight">
-            <span className="block text-gray-300">Scale Your Business With</span>
+            <span className="block text-gray-300">Scale Business With</span>
             <span className="block text-white text-glow">
               <TypewriterText text="High-Performance Systems." />
             </span>
