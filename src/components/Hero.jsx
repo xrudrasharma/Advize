@@ -104,11 +104,13 @@ const Hero = () => {
           transition={{ duration: 0.8 }}
           className="max-w-4xl pointer-events-auto"
         >
+          <div className=" mt-16">
           <div className="mb-4 inline-block px-4 py-1.5 rounded-full border border-neon/30 bg-neon/5 backdrop-blur-md">
-            <span className="text-neon font-semibold tracking-wider uppercase inline-block mt-16 text-xs tracking-wider uppercase">Next-Gen Digital Agency</span>
+            <span className="text-neon font-semibold tracking-wider uppercase inline-block text-xs tracking-wider uppercase">Next-Gen Digital Agency</span>
+          </div>
           </div>
           
-          <h1 className="text-3xl md:text-7xl font-bold mb-6 leading-tight tracking-tight">
+          <h1 className="text-4xl md:text-7xl font-bold mb-6 leading-tight tracking-tight">
             <span className="block text-gray-300">Scale Your Business With</span>
             <span className="block text-white text-glow">
               <TypewriterText text="High-Performance Systems." />
