@@ -105,10 +105,10 @@ const Hero = () => {
           className="max-w-4xl pointer-events-auto"
         >
           <div className="mb-4 inline-block px-4 py-1.5 rounded-full border border-neon/30 bg-neon/5 backdrop-blur-md">
-            <span className="text-neon text-sm font-semibold tracking-wider uppercase">Your First Of Growth</span>
+            <span className="text-neon font-semibold tracking-wider uppercase inline-block mt-16 text-xs tracking-wider uppercase">Next-Gen Digital Agency</span>
           </div>
           
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight tracking-tight">
+          <h1 className="text-3xl md:text-7xl font-bold mb-6 leading-tight tracking-tight">
             <span className="block text-gray-300">Scale Your Business With</span>
             <span className="block text-white text-glow">
               <TypewriterText text="High-Performance Systems." />
